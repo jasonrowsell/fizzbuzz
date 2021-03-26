@@ -1,4 +1,5 @@
 class FizzBuzz
+  
   def print_fizzbuzz(number)
     if number % 3 == 0 && number % 5 == 0
       'fizzbuzz'
@@ -8,4 +9,5 @@ class FizzBuzz
       'buzz'
     end
   end
+  
 end
