@@ -26,5 +26,5 @@ ruby fizzbuzz.rb
 ```sh
 rspec
 ```
-#### Contributors
+#### Pair Programming Partner
 [Max Clarke](https://github.com/MJCXII)
