@@ -13,7 +13,7 @@ This program requires latest [Ruby](https://www.ruby-lang.org/en/downloads/) ver
 
 ### Running from source
 
-The following commands install and run the FizzBuzz program:
+The following commands clone and run the FizzBuzz program:
 
 ```sh
 git clone git@github.com:jasonrowsell/fizzbuzz.git
