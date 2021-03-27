@@ -26,3 +26,5 @@ ruby fizzbuzz.rb
 ```sh
 rspec
 ```
+#### Contributors
+[Max Clarke](https://github.com/MJCXII)
